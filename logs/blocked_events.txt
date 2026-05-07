@@ -1,0 +1,30 @@
+[2026-05-07 01:09:17] #1
+Host: bdevent.ggpolarbear.com
+Path: /LogEvent
+Event: EventTypeFFAnti
+Payload: {"tick_count":7,"info":"id=8|name=BlueStacksX86\u0000|","scene":3,"region":"BD","account_id":13103380497}
+--------------------------------------------------
+[2026-05-07 01:09:18] #2
+Host: bdevent.ggpolarbear.com
+Path: /LogEvent
+Event: EventTypeFFAnti
+Payload: {"tick_count":7,"info":"id=10|root=0|x86=1|apk_cnt=0|adb=0|machine=NE2211|sys_ver=9|root_record=0\u0000|apk_name=com.dts.freefireth|app_name=Free Fire|app_ver=1.123.1|sdk_ver=7.7.50.28931|app_name_b64=RnJlZSBGaXJl\u0000|files_dir=/data/user/0/com.dts.freefireth/files|sd_dir=/storage/emulated/0/Android/data/com.dts.freefireth|lib_dir=/data/app/com.dts.freefireth-6TuDoYGh-i6IYm06oLsJ-g|cert_md5=ad360b4208d2777aebdac10115faca5b|apk_hash_1=0x4e6b8304|apk_hash_2=0x4e6b8304|txt_seg_crc=0x5f31644a\u0000|","scene":3,"region":"BD","account_id":13103380497}
+--------------------------------------------------
+[2026-05-07 01:09:18] #3
+Host: bdevent.ggpolarbear.com
+Path: /LogEvent
+Event: EventTypeFFAnti
+Payload: {"tick_count":7,"info":"id=9|info=foo\u0000|","scene":3,"region":"BD","account_id":13103380497}
+--------------------------------------------------
+[2026-05-07 01:09:19] #4
+Host: bdevent.ggpolarbear.com
+Path: /LogEvent
+Event: EventTypeEnterGame
+Payload: {"system_software":"Android OS 9 / API-28 (SKQ1.220617.001/S.c2cce3-2_95f)","system_hardware":"Handheld","dpi":"240","cpu_hardware":"ARMv7 VFPv3 NEON | 2000 | 4","memory":7966,"gl_render":"Adreno (TM) 540","gl_version":"OpenGL ES 3.2 (4.5.0 NVIDIA 596.21)","device_model":"OnePlus NE2211","match_id":2052299700952670208,"is_night_mode":0,"tick_count":7,"group_mode":3,"time_to_wait":0,"lib_path":"/data/app/com.dts.freefireth-6TuDoYGh-i6IYm06oLsJ-g==/lib/arm64","quality":3,"game_mode":15,"match_mode":6,"lib_token":"bb18d054529a40f447b48bec22c67603","map_id":1,"shadow_option":2112,"loading_time":1003,"fake_loading_time":2254,"cpu_type":2,"ip_region":"BD","loadingscene_time":254,"gamescene_time":1116,"connect_gs_time":20,"connected_gs":true,"loading_time_nopause":3257,"loading_awaketodestroy":3518,"is_charge":false,"joinmatch_rtt":136,"joinmatch_msgtime":1580,"match_num":1,"enter_pvp_memory":801,"enter_pvp_avail_memory":6396,"enter_pvp_vss":6444,"is_ob":false,"lobby_battery_consumption":-1,"lobby_time":-1,"gameserver_ip":"154.93.46.176:10017","proxyserver_ip":":0","gameserver_proxy_port":0,"extra_info":"","region":"BD","account_id":13103380497}
+--------------------------------------------------
+[2026-05-07 01:17:41] #5
+Host: bdevent.ggpolarbear.com
+Path: /LogEvent
+Event: EventTypeEnterGame
+Payload: {"system_software":"Android OS 9 / API-28 (SKQ1.220617.001/S.c2cce3-2_95f)","system_hardware":"Handheld","dpi":"240","cpu_hardware":"ARMv7 VFPv3 NEON | 2000 | 4","memory":7966,"gl_render":"Adreno (TM) 540","gl_version":"OpenGL ES 3.2 (4.5.0 NVIDIA 596.21)","device_model":"OnePlus NE2211","match_id":2052301819126521856,"is_night_mode":0,"tick_count":30,"group_mode":3,"time_to_wait":0,"lib_path":"/data/app/com.dts.freefireth-6TuDoYGh-i6IYm06oLsJ-g==/lib/arm64","quality":3,"game_mode":15,"match_mode":6,"lib_token":"bb18d054529a40f447b48bec22c67603","map_id":1,"shadow_option":2112,"loading_time":1048,"fake_loading_time":1442,"cpu_type":2,"ip_region":"BD","loadingscene_time":235,"gamescene_time":1079,"connect_gs_time":16,"connected_gs":true,"loading_time_nopause":2490,"loading_awaketodestroy":2639,"is_charge":false,"joinmatch_rtt":132,"joinmatch_msgtime":591,"match_num":2,"enter_pvp_memory":968,"enter_pvp_avail_memory":6230,"enter_pvp_vss":6781,"is_ob":false,"lobby_battery_consumption":0,"lobby_time":49,"gameserver_ip":"156.59.71.134:10015","proxyserver_ip":":0","gameserver_proxy_port":0,"extra_info":"","region":"BD","account_id":13103380497}
+--------------------------------------------------

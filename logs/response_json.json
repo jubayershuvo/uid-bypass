@@ -1,0 +1,33 @@
+=== RESPONSE #1 ===
+{
+  "header": {
+    "alg": "HS256",
+    "svr": "1",
+    "typ": "JWT"
+  },
+  "payload": {
+    "account_id": 13103380497,
+    "nickname": "Yi1gbnYQXTxeEQ==",
+    "noti_region": "BD",
+    "lock_region": "BD",
+    "external_id": "c9839bf75cf68ee97f52beb9776ea3b3",
+    "external_type": 8,
+    "plat_id": 1,
+    "client_version": "1.123.11",
+    "emulator_score": 0,
+    "is_emulator": false,
+    "country_code": "BD",
+    "external_uid": 1706001471916,
+    "reg_avatar": 102000007,
+    "source": 4,
+    "lock_region_time": 1756086201,
+    "client_type": 2,
+    "signature_md5": "7428b253defc164018c604a1ebbfebdf",
+    "using_version": 1,
+    "release_channel": "android",
+    "release_version": "OB53",
+    "exp": 1778169972
+  },
+  "signature": "RatxdFuMW2SBgUEwxZi81djW8S4vY4AYYEykQKHRqrwH"
+},
+
