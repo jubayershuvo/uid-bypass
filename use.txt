@@ -9,8 +9,5 @@ pip install mitmproxy blackboxprotobuf pycryptodome  protobuf
 # easy pkg install 
 pip install -r requirements.txt
 
-# install mitmproxy
-pip install mitmproxy
-
-# run web UI
-mitmweb
+# run
+python app.py
