@@ -1,13 +1,20 @@
+# check python installed
 python3 --version
 
 # upgrade pip
 pip install --upgrade pip
 
-# install pkgs
-pip install mitmproxy blackboxprotobuf pycryptodome
-
-# easy pkg install 
+# pkg install 
 pip install -r requirements.txt
 
 # run
 python app.py
+
+# run direct 
+mitmdump -s main.py
+
+#cert
+%USERPROFILE%\.mitmproxy
+
+#cert installer 
+https://github.com/paulafredo/CertInstaller
