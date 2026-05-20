@@ -17,4 +17,4 @@ mitmdump -s main.py
 %USERPROFILE%\.mitmproxy
 
 #cert installer 
-https://github.com/paulafredo/CertInstaller
+https://github.com/paulafredo/CertInstaller/releases/download/v1.0.0/CertInstaller-v1.0.0.rar
